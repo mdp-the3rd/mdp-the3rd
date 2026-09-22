@@ -20,7 +20,7 @@ a business/technical hybrid, who can extends itself across functions.
 - Interactive interfaces for commercial teams
 - Self-hosted AI and infrastructure
 
-### Stack
+## Stack
 
 Python · PostgreSQL · React · TypeScript · Linux · Docker · Kubernetes · LLMs
 
@@ -29,7 +29,7 @@ Python · PostgreSQL · React · TypeScript · Linux · Docker · Kubernetes · 
 Kubernetes · AI infrastructure · agent architectures · MCP ·
 reinforcement learning · interactive visualisation
 
-### Systems
+## Systems
 
 Linux Foundation Certified System Administrator (LFCS)
 
