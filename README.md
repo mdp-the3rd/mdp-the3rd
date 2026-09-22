@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Michele
+# My name is Michele,
 
 ### Marketing Engineer / Marketing Developer
 
